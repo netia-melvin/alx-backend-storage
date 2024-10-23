@@ -1,0 +1,7 @@
+// Insert document
+use my_db
+db.school.insertOne(
+{
+	name: "Holberton school",
+}
+)
